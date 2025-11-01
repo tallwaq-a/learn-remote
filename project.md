@@ -24,7 +24,7 @@
 
 #### 方法2checkout分离头指针
 
-![](./images/back-n mod history.2.png)
+![](./images/back-n-mod-history.2.png)
 
 ### 修改历史
 
