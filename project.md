@@ -20,25 +20,25 @@
 
 #### 方法1revert反转操作
 
-![](./images/back&nmodhistory1.png)
+![](./images/back-nmodhistory1.png)
 
 #### 方法2checkout分离头指针
 
-![](./images/back&nmodhistory2.png)
+![](./images/back-nmodhistory2.png)
 
 ### 修改历史
 
 #### 方法1reset
 
-![](./images/back&modhistory1.png)
+![](./images/backmodhistory1.png)
 
 #### 方法2rebase -i
 
 *在此图前进行rebase -i操作，进入文件编辑界面*
 
-![](./images/back&modhistory21.png)
+![](./images/backmodhistory21.png)
 
-![](./images/back&modhistory22.png)
+![](./images/backmodhistory22.png)
 
 # 任务3
 
